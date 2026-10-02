@@ -8,6 +8,14 @@
     "url": "https://rovzu.com"
   },
   "homepage": "https://rovzu.com/asistentes",
+  "privacyPolicyUrl": "https://rovzu.com/privacidad",
   "license": "MIT",
-  "keywords": ["reading", "read later", "reading list", "articles", "bookmarks", "library"]
+  "keywords": [
+    "reading",
+    "read later",
+    "reading list",
+    "articles",
+    "bookmarks",
+    "library"
+  ]
 }
