@@ -8,7 +8,11 @@
     "url": "https://rovzu.com"
   },
   "homepage": "https://rovzu.com/asistentes",
+  "repository": "https://github.com/avidal2433/rovzu-claude-plugin",
+  "documentationUrl": "https://rovzu.com/asistentes",
+  "supportUrl": "https://rovzu.com/contacto",
   "privacyPolicyUrl": "https://rovzu.com/privacidad",
+  "termsOfServiceUrl": "https://rovzu.com/terminos",
   "license": "MIT",
   "keywords": [
     "reading",
