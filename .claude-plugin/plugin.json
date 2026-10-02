@@ -1,0 +1,13 @@
+{
+  "name": "rovzu",
+  "displayName": "Rovzu",
+  "version": "1.0.0",
+  "description": "Your reading library in Claude: search the articles you saved, read them in Rovzu's reading view, save links and keep your reading lists in order.",
+  "author": {
+    "name": "Andrés Felipe Vidal Fernández",
+    "url": "https://rovzu.com"
+  },
+  "homepage": "https://rovzu.com/asistentes",
+  "license": "MIT",
+  "keywords": ["reading", "read later", "reading list", "articles", "bookmarks", "library"]
+}

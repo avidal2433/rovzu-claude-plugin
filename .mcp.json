@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rovzu": {
+      "type": "http",
+      "url": "https://rovzu.com/mcp"
+    }
+  }
+}
